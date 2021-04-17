@@ -3,5 +3,12 @@
     "china",
     "pattern",
     "unicom"
+  ],
+  "cSpell.ignoreWords": [
+    "nl",
+    "nlre",
+    "nlrt",
+    "rnlr",
+    "zhushi"
   ]
 }
