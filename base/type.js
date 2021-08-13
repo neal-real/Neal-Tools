@@ -1,3 +1,4 @@
+// 判断类型
 function type(value) {
   let name = typeof (value)
   let type = ''
